@@ -1,3 +1,6 @@
 [submodule "visualizations/MutualBrainwavesLab"]
 	path = visualizations/MutualBrainwavesLab
 	url = https://github.com/ror-submodules/MutualBrainwavesLab.git
+[submodule "online_analysis/unnamed_thing"]
+	path = online_analysis/unnamed_thing
+	url = https://github.com/ror-submodules/unnamed_thing.git
