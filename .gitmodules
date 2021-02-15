@@ -4,3 +4,6 @@
 [submodule "online_analysis/unnamed_thing"]
 	path = online_analysis/unnamed_thing
 	url = https://github.com/ror-submodules/unnamed_thing.git
+[submodule "tools/LabRecorder"]
+	path = tools/LabRecorder
+	url = https://github.com/labstreaminglayer/App-LabRecorder.git
